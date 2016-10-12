@@ -1,0 +1,419 @@
+{
+    "newegg_product": {
+        "meta_metadata_name": "newegg_product",
+        "location": "http://www.newegg.com/Product/Product.aspx?Item=N82E16834154295",
+        "download_status": "DOWNLOAD_DONE",
+        "text_keywords": "Newegg, Newegg.com,MSI 15.6\" 4K/UHD GS63VR Stealth Pro 4K-021 Intel Core i7 6700HQ (2.60 GHz) NVIDIA GeForce GTX 1060 16 GB Memory 512 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop VR Ready",
+        "title": "MSI 15.6\" 4K/UHD GS63VR Stealth Pro 4K-021 Intel Core i7 6700HQ (2.60 GHz) NVIDIA GeForce GTX 1060 16 GB Memory 512 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop VR Ready",
+        "description": "Buy MSI 15.6\" 4K/UHD GS63VR Stealth Pro 4K-021 Intel Core i7 6700HQ (2.60 GHz) NVIDIA GeForce GTX 1060 16 GB Memory 512 GB SSD 1 TB HDD Windows 10 Home 64-Bit Gaming Laptop VR Ready with fast shipping and top-rated customer service.Once you know, you Newegg!",
+        "favicon": {
+            "meta_metadata_name": "image",
+            "location": "http://images10.newegg.com/WebResource/Themes/2005/Nest/Newegg.ico",
+            "download_status": "UNPROCESSED"
+        },
+        "specifications_table": [
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Model",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Brand",
+                        "value": "MSI"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Series",
+                        "value": "GS Series"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Model",
+                        "value": "GS63VR Stealth Pro 4K-021"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Quick Info",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Color",
+                        "value": "Aluminum Black"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Operating System",
+                        "value": "Windows 10 Home 64-Bit"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "CPU",
+                        "value": "Intel Core i7-6700HQ 2.6 GHz"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Screen",
+                        "value": "15.6\" 4K"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Memory",
+                        "value": "16 GB DDR4"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Storage",
+                        "value": "512 GB SSD + 1 TB HDD"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Graphics Card",
+                        "value": "GeForce GTX 1060"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Video Memory",
+                        "value": "6 GB GDDR5"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Communication",
+                        "value": "Gigabit LAN and WLAN"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Dimensions (W x D x H)",
+                        "value": "14.96\" x 9.80\" x 0.69\""
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Weight",
+                        "value": "3.96 lbs."
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "CPU",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "CPU Type",
+                        "value": "Intel Core i7"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "CPU Speed",
+                        "value": "6700HQ (2.60 GHz)"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Number of Cores",
+                        "value": "Quad-core Processor"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Core Name",
+                        "value": "Skylake"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Turbo Frequency",
+                        "value": "Up to 3.5 GHz"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "CPU L3 Cache",
+                        "value": "6 MB"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Chipset",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Chipset",
+                        "value": "Intel HM170"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Display",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Screen Size",
+                        "value": "15.6\" 4K/UHD"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Touchscreen",
+                        "value": "No"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Wide Screen Support",
+                        "value": "Yes"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Display Type",
+                        "value": "UHD"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Resolution",
+                        "value": "3840 x 2160"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "LCD Features",
+                        "value": "UHD, 4K eDP IPS-Level"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Operating Systems",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Operating System",
+                        "value": "Windows 10 Home 64-Bit"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Graphics",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "GPU/VPU",
+                        "value": "NVIDIA GeForce GTX 1060"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Video Memory",
+                        "value": "6 GB"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Graphic Type",
+                        "value": "Dedicated Card"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Hard Drives",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "SSD",
+                        "value": "512 GB"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "HDD",
+                        "value": "1 TB"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "HDD RPM",
+                        "value": "5400 RPM"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "HDD Interface",
+                        "value": "SATA"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Memory",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Memory",
+                        "value": "16 GB"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Memory Speed",
+                        "value": "DDR4 2400"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Memory Spec",
+                        "value": "8 GB x 2"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Memory Slot (Total)",
+                        "value": "2"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Max Memory Supported",
+                        "value": "32 GB"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Communications",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "LAN",
+                        "value": "Killer Gaming Network E2400"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "WLAN",
+                        "value": "Killer N1535 Combo (2x2 ac)"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Bluetooth",
+                        "value": "Bluetooth 4.1"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Ports",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "USB",
+                        "value": "3 x USB 3.0"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Video Port",
+                        "value": "1 x Thunderbolt 3, 1 x Mini DisplayPort"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "HDMI",
+                        "value": "1 x HDMI 2.0"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Audio",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Speaker",
+                        "value": "Speakers x 4"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Output Device",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Virtual Reality Ready",
+                        "value": "Yes"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Input Device",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Touchpad",
+                        "value": "Click Pad"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Keyboard",
+                        "value": "Steel Series Full-color backlight with Anti-Ghost key + silver lining"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Backlit Keyboard",
+                        "value": "Backlit"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Webcam",
+                        "value": "FHD type (30fps@1080p)"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Card Reader",
+                        "value": "SD (XC / HC)"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "General",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Style",
+                        "value": "Thin and Light"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Type",
+                        "value": "Gaming & Entertainment"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Usage",
+                        "value": "Consumer"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Power",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "AC Adapter",
+                        "value": "180-watt AC adapter"
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Battery",
+                        "value": "3 cell (57 Whr)"
+                    }
+                ]
+            },
+            {
+                "meta_metadata_name": "labeled_specifications",
+                "title": "Dimensions & Weight",
+                "specifications": [
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Dimensions (W x D x H)",
+                        "value": "14.96\" x 9.80\" x 0.69\""
+                    },
+                    {
+                        "meta_metadata_name": "specification",
+                        "name": "Weight",
+                        "value": "3.96 lbs."
+                    }
+                ]
+            }
+        ]
+    }
+}

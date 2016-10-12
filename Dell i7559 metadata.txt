@@ -1,0 +1,448 @@
+{
+    "newegg_product": {
+        "title": "DELL Inspiron i7559-12623BLK Gaming Laptop Intel Core i5 6300HQ (2.30 GHz) 8 GB Memory 1 TB Hybrid HDD+8 GB Cache NVIDIA GeForce GTX 960M 4 GB GDDR5 15.6\" 1920 x 1080 HD Webcam Windows 10 Home 64-Bit",
+        "overall_rating": {
+            "type": "http://schema.org/AggregateRating",
+            "ratingValue": "4",
+            "reviewCount": "11"
+        },
+        "num_reviews": 11,
+        "reviews": [
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: There's a lot to like here.- Current gen quad core i5- The 960M isn’t going to blow you away but it’s decent enough to play most games of 2015 and similar at a mix of medium/high settings at acceptable frame rates.  Additionally, Dell gave it *4GB* of DDR5 vram, instead of the usual 2gb of DDR5 or even DDR3 you find in this price range.  That's great for newer games and open world games that benefit from more GPU memory.- Very easy for the end user to service - single screw access to all the internals is NICE.- Good upgrade options.  You have a free M.2 SSD slot and a free ram slot, so a couple of simple and cheap upgrades can give you a great spec boost that puts you in line with models that cost several hundred dollars more.-A number of small things that add up: backlit keyboard with a couple of brightness settings, number pad on the keyboard, big battery, red accents give it a good but not overly aggressive look, IPS panel instead of a TN panel, huge rubber feet on the bottom that really work well to keep the laptop from slipping and help with ventilation, indication light on the charger end so you can see if it’s got power, very little bloatware, etc.  It’s a bunch of things that taken on their own might not be a big deal, but together make a pretty compelling bunch of bells and whistles.",
+                "title": "Very, very good laptop for the price"
+            },
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: Specs. GPU, RAM, HDD, Screen, Wifi adapter, color, backlit keyboard. This thing is f&*@&$# fantastic. One screw to access the bottom panel. Screen is fine, don't listen to the whiners, it's LED and every angle is excellent, even in sunlight. Boot up time is about 45 seconds, and did I mention that it only takes ONE screw to open up the entire bottom panel and add an m2 drive or another ram. Processor is fine for gaming, honestly.",
+                "title": "High Quality Laptop at an affordable price"
+            },
+            {
+                "mm_name": "review",
+                "rating": "3  eggs",
+                "description": "Pros: Great video card, nice design, and great price!",
+                "title": "Seems like a good laptop but..."
+            },
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: Runs Battlefield and The Division at medium to high graphics settings with ease.  Standard FPS is around 30-40 in game.   Easy laptop to use, backlit keyboard, just a pleasure to use for gaming, browsing the net, etc.",
+                "title": "Great gaming laptop!"
+            },
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: The laptop overall is great specs for the price. It is incredibly easy to open up and add an extra hard drive or solid state drive and increase the RAM. It is a very solid laptop, not fragile feeling. I have used it for LFD2 and Overwatch thus far and it has handled both pretty well.",
+                "title": "A very solid purchase!"
+            },
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: - great entry gaming laptop for price- back-lit keyboard- good performance",
+                "title": "DELL Inspiron i7559-12623BLK Gaming Laptop"
+            },
+            {
+                "mm_name": "review",
+                "rating": "4  eggs",
+                "description": "Pros: * 6th gen i5 is solid* 960m allows you to play most newer games on medium graphics, but switches over only when necessary (uses the integrated graphics otherwise) and this saves on battery life* While playing games like Oldschool Runescape, I get around 4 hours of battery life with the screen brightness on 50% of so.* Easy to upgrade, one screw on the bottom allows you to access the battery, HDD, RAM and m.2 sata SSD port. I easily added 8gb of RAM( $30 USD) and a 250gb Samsung m.2 SSD($90USD) to beef this laptop up! Samsungs software made transferring the OS super easy to do. Google this laptop and how to upgrade, there is a great video that walks you through the process.*  Backlit led keyboard, keys dim after inactivity to safe battery life* The keys feel good, I don't have any issues with the keyboard",
+                "title": "This is probably the middle of the road laptop you're looking for"
+            },
+            {
+                "mm_name": "review",
+                "rating": "2  eggs",
+                "description": "Pros: None",
+                "title": "Absoulte trash"
+            },
+            {
+                "mm_name": "review",
+                "rating": "5  eggs",
+                "description": "Pros: for $800 it's fast and the graphics are really good, not amazing.  has easy open panel for upgrades, keyboard and track pad takes some getting used to. all in all a great deal",
+                "title": "5 stars for price"
+            },
+            {
+                "mm_name": "review",
+                "rating": "4  eggs",
+                "description": "Pros: Quad Core i5Nvidia GTX 960 (4 GB GDDR5)Battery life",
+                "title": "Great Inexpensive Gaming Laptop"
+            },
+            {
+                "mm_name": "review",
+                "rating": "3  eggs",
+                "description": "Pros: - affordable gaming laptop with 4GB 960M- SSHD is fast enough- soft touch feel is very nice- great build quality overall",
+                "title": "excellent screen; horrible trackpad"
+            }
+        ],
+        "specifications_table": [
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Model",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Brand",
+                        "value": "DELL"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Series",
+                        "value": "Inspiron"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Model",
+                        "value": "i7559-12623BLK"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Quick Info",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Color",
+                        "value": "Black"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Operating System",
+                        "value": "Windows 10 Home 64-Bit"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "CPU",
+                        "value": "Intel Core i5-6300HQ 2.3 GHz"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Screen",
+                        "value": "15.6\""
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Memory",
+                        "value": "8 GB DDR3L"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Storage",
+                        "value": "1 TB Hybrid HDD + 8 GB Cache"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Graphics Card",
+                        "value": "GeForce GTX 960M"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Video Memory",
+                        "value": "4 GB GDDR5"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Dimensions (W x D x H)",
+                        "value": "15.08\" x 10.43\" x 1.00\""
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Weight",
+                        "value": "5.67 lbs."
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "CPU",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "CPU Type",
+                        "value": "Intel Core i5"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "CPU Speed",
+                        "value": "6300HQ (2.30 GHz)"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Number of Cores",
+                        "value": "Quad-core Processor"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Core Name",
+                        "value": "Skylake"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "CPU L3 Cache",
+                        "value": "6 MB"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Display",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Screen Size",
+                        "value": "15.6\""
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Touchscreen",
+                        "value": "No"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Wide Screen Support",
+                        "value": "Yes"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Display Type",
+                        "value": "Full HD"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Resolution",
+                        "value": "1920 x 1080"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "LCD Features",
+                        "value": "Anti-Glare LED-Backlit Display"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Operating Systems",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Operating System",
+                        "value": "Windows 10 Home 64-Bit"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Graphics",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "GPU/VPU",
+                        "value": "NVIDIA GeForce GTX 960M"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Video Memory",
+                        "value": "4 GB"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Graphic Type",
+                        "value": "Dedicated Card"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Hard Drives",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "SSD",
+                        "value": "8 GB"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "HDD",
+                        "value": "1 TB"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "HDD RPM",
+                        "value": "5400 RPM"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "HDD Interface",
+                        "value": "SATA"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Memory",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Memory",
+                        "value": "8 GB"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Memory Speed",
+                        "value": "DDR3L 1600"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Memory Spec",
+                        "value": "8 GB x 1"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Memory Slot (Total)",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Communications",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "WLAN",
+                        "value": "802.11ac  Wireless LAN"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Bluetooth",
+                        "value": "Bluetooth 4.0"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Ports",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "USB",
+                        "value": "3 x USB 3.0"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "HDMI",
+                        "value": "1 x HDMI"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Audio Ports",
+                        "value": "1 x Headphone/Microphone Combo Jack"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Audio",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Audio",
+                        "value": "MaxxAudio"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Speaker",
+                        "value": "Stereo speakers"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Input Device",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Keyboard",
+                        "value": "Backlit Keyboard - English"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Backlit Keyboard",
+                        "value": "Backlit"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Webcam",
+                        "value": "HD Webcam"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Card Reader",
+                        "value": "2-in-1 SD (UHS50) / MMC"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "General",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Style",
+                        "value": "Standard"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Type",
+                        "value": "Mainstream"
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Usage",
+                        "value": "Consumer"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Power",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Battery",
+                        "value": "74 WHr, 6-Cell Battery (Integrated)"
+                    }
+                ]
+            },
+            {
+                "mm_name": "labeled_specifications",
+                "title": "Dimensions & Weight",
+                "specifications": [
+                    {
+                        "mm_name": "specification",
+                        "name": "Dimensions (W x D x H)",
+                        "value": "15.08\" x 10.43\" x 1.00\""
+                    },
+                    {
+                        "mm_name": "specification",
+                        "name": "Weight",
+                        "value": "5.67 lbs."
+                    }
+                ]
+            }
+        ],
+        "description": "Buy DELL Inspiron i7559-12623BLK Gaming Laptop Intel Core i5 6300HQ &#40;2.30 GHz&#41; 8 GB Memory 1 TB Hybrid HDD&#43;8 GB Cache NVIDIA GeForce GTX 960M 4 GB GDDR5 15.6&#34; 1920 x 1080 HD Webcam Windows 10 Home 64-Bit with fast shipping and top-rated customer service.Once you know, you Newegg&#33;",
+        "thumbnail": {
+            "mm_name": "image",
+            "location": "http://media.webcollage.net/rwvfp/wc/cp/22003561/module/dellbtoc/_cp/products/1441884962521/tab-3e00b940-17e8-41aa-a073-2ba9a8de4486/1e410fba-fb68-49c1-8051-ff794ddaaf9e.mp4.poster.jpg.w960.jpg"
+        },
+        "favicon": {
+            "mm_name": "image",
+            "location": "http://images10.newegg.com/WebResource/Themes/2005/Nest/Newegg.ico"
+        },
+        "text_keywords": "Newegg, Newegg.com,DELL Inspiron i7559-12623BLK Gaming Laptop Intel Core i5 6300HQ &#40;2.30 GHz&#41; 8 GB Memory 1 TB Hybrid HDD&#43;8 GB Cache NVIDIA GeForce GTX 960M 4 GB GDDR5 15.6&#34; 1920 x 1080 HD Webcam Windows 10 Home 64-Bit",
+        "location": "http://www.newegg.com/Product/Product.aspx?Item=N82E16834298770",
+        "mm_name": "newegg_product"
+    }
+}
